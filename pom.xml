@@ -342,7 +342,7 @@
   <properties>
     <geotools.version>8.0-M4</geotools.version>
     <jersey.version>1.11</jersey.version>
-    <spring.version>5.2.23.RELEASE</spring.version>
+    <spring.version>5.5.7</spring.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <distribution_id>opengeo</distribution_id>
     <distribution_name>OpenGeo Maven Repository</distribution_name>
